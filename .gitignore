@@ -1,0 +1,7 @@
+.vs/*
+Segfy.Domain/bin/*
+Segfy.Domain/obj/*
+Segfy.Shared/bin/*
+Segfy.Shared/obj/*
+Segfy.Tests/bin/*
+Segfy.Tests/obj/*
